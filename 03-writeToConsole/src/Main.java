@@ -16,5 +16,12 @@ public class Main{
 
         double price = 12.48973; // %f
         System.out.printf(" total is %.2f", price); // 2 decimal
+
+        System.out.println(); // next line
+
+        int x = 24;
+
+        System.out.printf("|%5d|", x); // align to right
+        System.out.printf("|%-5d|", x); // align to left
     }
 }
