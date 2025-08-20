@@ -25,8 +25,5 @@ public class Exp2 {
         } else{
             System.out.println("The element " + searchKey + " is not found in array");
         }
-
-        
     }
-
 }
