@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class TwoDimArray {
+public class MultiDimArray {
     public static void main(String[] args) {
         int[][] x = new int[5][5]; // 5x5 matrix
         x[2][1] = 8;
